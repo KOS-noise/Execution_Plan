@@ -84,7 +84,4 @@
 
 - 평균(ms), 중앙값(ms), P95(ms), 평균 개선율(%)
 
-## 이력서 문장 예시
-
-`Optimized product-name search by replacing wildcard scans with MySQL Full-Text index access and aligning data/count predicates, reducing average query latency by XX% on a 100K-row benchmark.`
 
